@@ -1,0 +1,9 @@
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\bin\Debug\netcoreapp3.1\EntitiesLibrary.deps.json
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\bin\Debug\netcoreapp3.1\EntitiesLibrary.dll
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\bin\Debug\netcoreapp3.1\EntitiesLibrary.pdb
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\obj\Debug\netcoreapp3.1\EntitiesLibrary.csprojAssemblyReference.cache
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\obj\Debug\netcoreapp3.1\EntitiesLibrary.AssemblyInfoInputs.cache
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\obj\Debug\netcoreapp3.1\EntitiesLibrary.AssemblyInfo.cs
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\obj\Debug\netcoreapp3.1\EntitiesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\obj\Debug\netcoreapp3.1\EntitiesLibrary.dll
+C:\Users\karim\source\repos\FunctionsAzure\EntitiesLibrary\obj\Debug\netcoreapp3.1\EntitiesLibrary.pdb
